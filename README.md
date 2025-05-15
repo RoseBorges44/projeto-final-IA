@@ -1,18 +1,12 @@
- # projeto-final-IA
- Projeto final do Bootcamp de Ciência de Dados e IA
+# 🧠 Projeto Final — Classificação de Defeitos em Chapas de Aço Inoxidável
 
- # 🧠 Projeto Final — Classificação de Defeitos em Chapas de Aço Inoxidável
-
-Este repositório contém o projeto final desenvolvido por **Rosemeri Borges** no Bootcamp de Ciência de Dados e Inteligência Artificial do UNISENAI. O objetivo é aplicar técnicas de aprendizado de máquina para classificar automaticamente **falhas em chapas de aço inoxidável** com base em atributos extraídos de imagens industriais.
+Este repositório contém o projeto final desenvolvido por **Rosemeri Borges** para o Bootcamp de Ciência de Dados e Inteligência Artificial, com o objetivo de **automatizar a detecção e classificação de defeitos** em chapas de aço com base em dados industriais.
 
 ---
 
-## 🎯 Objetivo
+## 📌 Objetivo
 
-Criar um modelo de classificação multiclasse capaz de identificar automaticamente o tipo de falha em uma chapa, otimizando o controle de qualidade na indústria.
-
----
-
+Construir um sistema de classificação multiclasse capaz de identificar automaticamente o tipo de falha presente em uma chapa de aço, utilizando atributos extraídos de imagens industriais.
 
 ---
 
@@ -63,10 +57,10 @@ A submissão foi realizada com sucesso na plataforma do Bootcamp via API oficial
    git clone https://github.com/RoseBorges44/projeto-final-IA.git
    cd projeto-final-IA
 
----
-   
+
 👩‍💻 Autora
 
 Rosemeri Borges
 📧 rose.jbob@gmail.com
 📘 Bootcamp de Ciência de Dados e IA — UNISENAI
+
